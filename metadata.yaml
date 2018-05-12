@@ -46,6 +46,8 @@ description: "From the opening lines of <i>The Scarlet Letter</i>, Hawthorne tra
   \ that include: love and hate; acceptance and ridicule; trust and betrayal; and\
   \ repentance and denial. The novel acts as a catalyst for readers to question what\
   \ they think and why they hold their particular opinions.\r\n"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25344#The-Scarlet-Letter
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2008-05-05'
 gutenberg_type: Text
